@@ -9,11 +9,7 @@ O jogo se chama Space Runner e é um jogo estilo Run. O público alvo é voltado
 
 # Imagens
 
-<img src="/PROJETO1/INIM.png" alt="img_INIM"/>
-<img src="/PROJETO1/PERS.png" alt="img_PERS"/>
-<img src="/PROJETO1/fase1.png" alt="img_fase1"/>
-<img src="/PROJETO1/fase2.png" alt="img_fase2"/>
-<img src="/PROJETO1/fase3.png" alt="img_fase3"/>
+
 <img src="/PROJETO1/1.png" alt="img_fase4"/>
 <img src="/PROJETO1/2.png" alt="img_fase5"/>
 <img src="/PROJETO1/3.png" alt="img_fase6"/>
